@@ -3,3 +3,7 @@
 __pycache__/
 *.log
 tessdata/
+*.keras
+*.pth
+*.h5
+*.csv
